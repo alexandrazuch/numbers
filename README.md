@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Alexandra Zuch 
+2. Student ID: 2369080
+3. Email: zuch@chapman.edu
+4. Class: CPSC-298-01
 5. Assignment: numbers 
 
 ## Application Purpose
